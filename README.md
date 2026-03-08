@@ -131,7 +131,6 @@ Some outputs may contain:
 
 - No choice id is outputted
 - HTTP 429 errors
-- HTTP 500 errors
 
 We provide a rerun pipeline:
 
