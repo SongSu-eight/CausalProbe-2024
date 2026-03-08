@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+kb/
+result_logs/
+retrieved_docs/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
