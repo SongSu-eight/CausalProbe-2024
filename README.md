@@ -94,7 +94,7 @@ python main_ollama.py \
   --input_file benchmarks/CausalProbe2024/CausalProbe-E.json \
   --mode retrieval \
   --batch_size 1 \
-  --max_new_tokens 50 \
+  --max_new_tokens 96 \
   --metric multiple_choice_match \
   --prompt_name prompt_mcqa_retrieval_causalprobe \
   --task qa \
@@ -113,7 +113,7 @@ python main_ollama.py \
   --input_file benchmarks/CausalProbe2024/CausalProbe-E.json \
   --mode retrieval \
   --batch_size 1 \
-  --max_new_tokens 50 \
+  --max_new_tokens 96 \
   --metric multiple_choice_match \
   --prompt_name prompt_mcqa_g2reasoner_causalprobe \
   --task qa \
